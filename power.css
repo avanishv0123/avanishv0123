@@ -1,0 +1,448 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+html
+{
+	scroll-behavior: smooth;
+}
+.headImg
+{
+	/*border:2px solid red;*/
+	height: 350px;
+	width: 100%;
+	background: url("head.jpeg");
+	background-size: cover;
+	background-position: center 20%;
+	background-repeat: no-repeat;
+
+}
+.headImg .navbar
+{
+	/*border:2px solid red;*/
+	height: 60px;
+	width: 80%;
+	position: absolute;
+	top: 15px;
+	left: 130px;
+	background-color: white;
+	border-radius: 15px 0px;
+}
+.headImg .navbar #logo
+{
+	/*border: 2px solid red;*/
+	font-family: chiller;
+	font-size: 45px;
+	font-weight: bold;
+	position: relative;
+	top: 4px;
+	left: 20px;
+	color: black;
+}
+.headImg .navbar #links
+{
+	/*border:2px solid red;*/
+	position: relative;
+	top: -30px;
+	left: 450px;
+	font-family: sans-serif;
+	text-transform: capitalize;
+
+}
+.headImg .navbar #links a
+{
+	/*border: 2px solid red;*/
+	text-decoration: none;
+	padding: 12px 15px;
+	color:black;
+	transition: 0.4s all ease-in-out;
+
+
+}
+.headImg .navbar #links i
+{
+	margin-right: 2px;
+}
+
+
+.headImg .navbar #links a:first-child
+{
+	background-color: salmon;
+	color: white;
+}
+.headImg .navbar #links a:hover
+{
+	background-color: salmon;
+	color: white;	
+}
+.headImg .section
+{
+	/*border:2px solid red;*/
+	height: 200px;
+	width: 100%;
+	position: relative;
+	top: 150px;
+	text-align: center;
+	color: white;
+	text-transform: uppercase;
+}
+
+.headImg .section p
+{
+	/*border:2px solid red;*/
+	font-family: sans-serif;
+	opacity: .9;
+
+
+}
+.headImg .section h2
+{
+	/*border:2px solid red;*/
+	font-family: sans-serif;
+	letter-spacing: 5px;
+	font-size: 38px;
+	position: relative;
+	top:10px; 
+}
+.headImg .section a
+{
+	/*border:2px solid red;*/
+	padding: 10px 20px;
+	position: relative;
+	top: 50px;
+	color: white;
+	text-decoration:none;
+	margin-left: 10px;
+
+}
+.headImg .section #download
+{
+	background-color: dodgerblue;
+	transition: .4s all ease-in-out;
+}
+.headImg .section #download:hover
+{
+	color: white;
+	background-color: salmon;
+}
+.headImg .section #more
+{
+	background-color: salmon;
+	transition: .4s all ease-in-out;
+}
+.headImg .section #more:hover
+{
+	background-color: dodgerblue;
+	color: white
+}
+body
+{
+	background-color: dodgerblue;
+}
+.crew
+{
+	/*border: 2px solid red;*/
+	height: 250px;
+	background-color: dodgerblue;
+	color: white;
+	text-align: center;
+
+
+}
+.crew #one
+{
+	/*border:2px solid red;*/
+	font-size: 32px;
+	letter-spacing: 3px;
+	font-family: sans-serif;
+	width: 700px;
+	position: relative;
+	top: 45px;
+	left: 350px;
+	opacity: .8;
+	text-transform: uppercase;
+}
+.crew #two
+{
+	/*border:2px solid red;*/
+	position: relative;
+	top: 70px;
+	left: 500px;
+	width: 400px;
+	text-transform: uppercase;
+	font-family: sans-serif;
+	opacity: .9;
+}
+.crew #know
+{
+	border:2px solid white;
+	padding: 8px 20px;
+	position: relative;
+	top: 110px;
+	font-weight: bold;
+	text-transform: uppercase;
+	transition: .4s all ease-in-out;
+	opacity: .7;
+}
+.crew #know:hover
+{
+	background-color: orange;
+	cursor: pointer;
+	opacity: 1;
+}
+.three
+{
+	/*border:2px solid red;*/
+	height: 350px;
+	width: 100%;
+	display: flex;
+}
+.three #first
+{
+	/*border:2px solid red;*/
+	width: 33.33%;
+	height: 100%;
+	background-color: salmon;
+	
+}
+.three #first #contents
+{
+	/*border:2px solid red;*/
+	color: white;
+	height: 250px;
+	width: 360px;
+	position: relative;
+	top: 30px;
+	left: 10%;
+	text-align: center;
+	font-family: sans-serif;
+
+}
+.three #contents i
+{
+	color: white;
+	font-size: 60px;
+	position: relative;
+	top: 30px;
+}
+
+.three #first #contents h3
+{
+ 	font-size: 24px;
+ 	position: relative;
+ 	top:55px; 	
+ 	text-transform: uppercase;
+}
+.three #first #contents p
+{
+	position: relative;
+	top: 70px;
+}
+
+.three #second
+{
+	/*border:2px solid red;*/
+	width: 33.33%;
+	height: 100%;
+	background-color: black;
+
+
+}
+.three #second #contents
+{
+	/*border:2px solid red;*/
+	color: white;
+	height: 250px;
+	width: 360px;
+	position: relative;
+	top: 30px;
+	left: 10%;
+	text-align: center;
+	font-family: sans-serif;
+
+}
+.three #second #contents h3
+{
+ 	font-size: 24px;
+ 	position: relative;
+ 	top:55px; 	
+ 	text-transform: uppercase;
+}
+.three #second #contents p
+{
+	position: relative;
+	top: 70px;
+}
+
+.three #third
+{
+	/*border:2px solid red;*/
+	width: 33.33%;
+	height: 100%;
+	background-color:orange;
+}
+.three #third #contents
+{
+	/*border:2px solid red;*/
+	color: white;
+	height: 250px;
+	width: 360px;
+	position: relative;
+	top: 30px;
+	left: 10%;
+	text-align: center;
+	font-family: sans-serif;
+
+}
+.three #third #contents h3
+{
+ 	font-size: 24px;
+ 	position: relative;
+ 	top:55px; 	
+ 	text-transform: uppercase;
+}
+.three #third #contents p
+{
+	position: relative;
+	top: 70px;
+}
+.contact 
+{
+	/*border:2px solid red;*/
+	height:550px;
+	width: 100%;
+	text-align: center;
+
+}
+.contact hr
+{	
+	position: relative;
+	left: 588px;
+}
+.contact h2
+{
+	/*border:2px solid red;*/
+	width:200px;
+	position: relative;
+	left: 42%;
+
+	text-transform: uppercase;
+	font-family: sans-serif;
+	font-weight:10;
+}
+.contact p
+{
+	/*border:2px solid red;*/
+	width: 600px;
+	position: relative;
+	left: 28%;
+	top: 10px;
+	height: 60px;
+}
+.contact #form
+{
+	/*border:2px solid red;*/
+	height: 74%;
+	width: 45%;
+}
+.contact #form input
+{
+	/*border:2px solid red;*/
+	padding: 15px 20px;
+	margin: 15px 20px;
+	border-radius: 8px 7px;
+	position: relative;
+	left: 0px;
+	width: 250px;
+	background-color: whitesmoke;
+	outline: none;
+
+}
+.contact #form input::placeholder
+{
+	color: black;
+	opacity: .6;
+}
+.contact #form textarea
+{
+	background-color: whitesmoke;
+	outline: none;
+
+}
+.contact #form textarea::placeholder
+{
+	color: black;
+	opacity: .6;
+	position: relative;
+	left: 10px;
+	width: 80px;
+}
+.contact #form a
+{
+	border:2px solid white;
+	background-color: dodgerblue;
+	color: white;
+	padding: 15px 20px;
+	text-transform: uppercase;
+	text-decoration: none;
+	position: relative;
+	top: 30px;
+	left: -165px;
+	border-radius: 8px;
+}
+.copyright
+{
+	/*border:2px solid red;*/
+	height: 230px;
+	width: 100%;
+	color: white;
+	background-color: black;
+}
+.copyright p
+{
+	/*border:2px solid red;*/
+	width: 600px;
+	text-transform: capitalize;
+	position: relative;
+	top: 60px;
+	left: 400px;	
+	font-size: 22px;
+	font-family: "Papyrus";	
+}
+.copyright #me
+{
+	/*border:2px solid red;*/
+	font-size: 110px;
+	font-family: chiller;	
+	position: relative;
+	top: 65px;
+	left: 550px;
+}
+.copyright #reg
+{
+	position: relative;
+	top: 10px;
+	left: 520px;	
+	font-size: 18px;
+}
+.mapouter
+{
+	/*border:2px solid red;*/
+	position:relative;
+	top: -430px;
+	left: 600px;
+	height:430px;
+	width:730px; 
+
+
+}
+.gmap_canvas 
+{
+	/*border:2px solid red;*/
+	overflow:hidden;
+	/*background:none!important;*/
+	height:430px;
+	width:730px;
+}
