@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Mumbai,Maharashtra,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avanishv0123&label=Profile%20views&color=0e75b6&style=flat" alt="avanishv0123" /> </p>
-<img align = "right" src = " https://uploads-ssl.webflow.com/61ebe5f773be1acd620f8208/61fa3997c8a7f531e18d4e67_man-coding-on-laptop.gif" width ="400px" height="350px" />
+<img align = "right" src= "https://uploads-ssl.webflow.com/61ebe5f773be1acd620f8208/61fa3997c8a7f531e18d4e67_man-coding-on-laptop.gif" width ="400px" height="350px"  alt= "rightbanner"/>
 
 - 👨‍💻 All of my projects are available at [https://github.com/avanishv0123?tab=repositories](https://github.com/avanishv0123?tab=repositories)
 
