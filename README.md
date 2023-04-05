@@ -7,6 +7,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/avanishv0123?tab=repositories](https://github.com/avanishv0123?tab=repositories)
 
 - 📫 How to reach me **avanishv73@gmail.com**
+- 📱  Or You can call me on **+91 7770077872**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jjD81-IYQV5VYWvD8MblvlTRKPzgxzQS/view](https://drive.google.com/file/d/1jjD81-IYQV5VYWvD8MblvlTRKPzgxzQS/view)
 
