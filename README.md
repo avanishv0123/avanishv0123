@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from Mumbai,Maharashtra,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avanishv0123&label=Profile%20views&color=0e75b6&style=flat" alt="avanishv0123" /> </p>
+<img align = "right" src = " https://uploads-ssl.webflow.com/61ebe5f773be1acd620f8208/61fa3997c8a7f531e18d4e67_man-coding-on-laptop.gif" width ="400px" height="350px" />
 
 - 👨‍💻 All of my projects are available at [https://github.com/avanishv0123?tab=repositories](https://github.com/avanishv0123?tab=repositories)
 
@@ -9,7 +10,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jjD81-IYQV5VYWvD8MblvlTRKPzgxzQS/view](https://drive.google.com/file/d/1jjD81-IYQV5VYWvD8MblvlTRKPzgxzQS/view)
 
-<img align = "right" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.webbeeglobal.com%2Fblog%2F10-reasons-why-hire-webbee-for-shopify-app-development&psig=AOvVaw0itysuEipkoUzBsGSbV2qe&ust=1680775004023000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOjbhP28kv4CFQAAAAAdAAAAABAE" width ="400px height = "400px" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
