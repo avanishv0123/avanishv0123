@@ -38,6 +38,12 @@
 <a href="https://instagram.com/avanish_Vish20" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+
+<a href="https://www.facebook.com/avanishv73/" target="_blank">
+<img src="https://img.shields.io/badge/facebook-%23000000.svg?&style=for-the-badge&logo=facebook&logoColor=white%20alt=instagram%20style=%22margin-bottom:%205px;" />
+</a>  
+
+
 </div>  
 
 <h3 align="left">Languages and Tools:</h3>
