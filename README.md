@@ -21,7 +21,7 @@
  </a>
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/avanish-vishwakarma-1817b9210/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avanish-vishwakarma-1817b9210/" height="30" width="40" /></a>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avanish-vishwakarma-1817b9210/" height="30" width="40"/></a>
   
 <a href="https://instagram.com/avanish_vish20" target="blank">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avanish_vish20" height="30" width="40"/>
