@@ -70,7 +70,7 @@
  ## Most Used Technologies
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avanishv0123&show_icons=true&locale=en&layout=compact" alt="avanishv0123" height="200" />
-</p> <br /><br /> <br /> <br /> <br /> <br /> <br /> <br />
+</p> <br /><br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 
 ## Github Stats  
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=avanishv0123&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
