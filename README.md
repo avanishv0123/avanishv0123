@@ -4,18 +4,24 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avanishv0123&label=Profile%20views&color=0e75b6&style=flat" alt="avanishv0123" /> </p>
 <img align = "right" src= "https://github.com/avanishv0123/avanishv0123/blob/main/Coder%20me.gif" width ="400px" height="350px"  alt= "rightbanner"/>
 
-- 👨‍💻 All of my projects are available at [https://github.com/avanishv0123?tab=repositories](https://github.com/avanishv0123?tab=repositories)
+- 👨‍💻 All of my projects are available at : [https://github.com/avanishv0123?tab=repositories](https://github.com/avanishv0123?tab=repositories)
 
-- 📫 How to reach me **avanishv73@gmail.com**
-- 📱  Or You can call me on **+91 7770077872**
+- 📫 How to reach me at : **avanishv73@gmail.com**
+- 📱  Or You can call me on : **+91 7770077872**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jjD81-IYQV5VYWvD8MblvlTRKPzgxzQS/view](https://drive.google.com/file/d/1jjD81-IYQV5VYWvD8MblvlTRKPzgxzQS/view)
+- 📄 Know about my experiences :  [https://drive.google.com/file/d/1jjD81-IYQV5VYWvD8MblvlTRKPzgxzQS/view](https://drive.google.com/file/d/1jjD81-IYQV5VYWvD8MblvlTRKPzgxzQS/view)
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/avanish-vishwakarma-1817b9210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avanish-vishwakarma-1817b9210/" height="30" width="40" /></a>
+ 
+<a href="https://github.com/avanishv0123" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github-alt.svg" alt="https://www.linkedin.com/in/avanish-vishwakarma-1817b9210/" height="30" width="40" /></a>
+  
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/avanish-vishwakarma-1817b9210/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avanish-vishwakarma-1817b9210/" height="30" width="40" /></a>
+  
 <a href="https://instagram.com/avanish_vish20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avanish_vish20" height="30" width="40" /></a>
 </p>
 
