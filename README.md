@@ -27,6 +27,8 @@
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avanish_vish20" height="30" width="40"/>
  </a> -->
 </p>
+
+
  
  <div align="left">
 <a href="https://github.com/avanishv0123" target="blank"">
@@ -42,10 +44,7 @@
 <a href="https://www.facebook.com/avanishv73/" target="_blank">
 <img src="https://img.shields.io/badge/facebook-%23000000.svg?&style=for-the-badge&logo=facebook&logoColor=white%20alt=instagram%20style=%22margin-bottom:%205px;" />
 </a>  
-
-
 </div>  
-
 <h3 align="left">Languages and Tools:</h3>
                 
 <h3>Frontend</h3>
@@ -68,8 +67,10 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
+ ## Most Used Technologies
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avanishv0123&show_icons=true&locale=en&layout=compact" alt="avanishv0123" height="200" />
+</p> <br /><br /> <br /> <br /> <br /> <br /> <br /> <br />
 
 ## Github Stats  
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=avanishv0123&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
