@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Mumbai,Maharashtra,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avanishv0123&label=Profile%20views&color=0e75b6&style=flat" alt="avanishv0123" /> </p>
-<img align = "right" src= "https://github.com/avanishv0123/avanishv0123/blob/main/Coder%20me.gif" width ="400px" height="320px"  alt= "rightbanner"/>
+<img align = "right" src= "https://github.com/avanishv0123/avanishv0123/blob/main/Coder%20me.gif" width ="400px" height="360px"  alt= "rightbanner"/>
 
 - 👨‍💻 All of my projects are available at : [https://github.com/avanishv0123?tab=repositories](https://github.com/avanishv0123?tab=repositories)
 
@@ -44,10 +44,11 @@
 <a href="https://www.facebook.com/avanishv73/" target="_blank">
 <img src="https://img.shields.io/badge/facebook-%23000000.svg?&style=for-the-badge&logo=facebook&logoColor=white%20alt=instagram%20style=%22margin-bottom:%205px;" />
 </a>  
-</div>  
-<h3 align="left">Languages and Tools:</h3>
+</div> 
+
+## Languages and Tools
                 
-<h3>Frontend</h3>
+<h3>Frontend </h3>
 <div align="left">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -76,5 +77,5 @@
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=avanishv0123&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>  
 
-<h3>Github Streaks</h3>
+## Github Streaks
 <div align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avanishv0123&" alt="avanishv0123" /></div>
