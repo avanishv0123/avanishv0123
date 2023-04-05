@@ -9,6 +9,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jjD81-IYQV5VYWvD8MblvlTRKPzgxzQS/view](https://drive.google.com/file/d/1jjD81-IYQV5VYWvD8MblvlTRKPzgxzQS/view)
 
+<img align = "right" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.webbeeglobal.com%2Fblog%2F10-reasons-why-hire-webbee-for-shopify-app-development&psig=AOvVaw0itysuEipkoUzBsGSbV2qe&ust=1680775004023000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOjbhP28kv4CFQAAAAAdAAAAABAE" width ="400px height = "400px" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/avanish-vishwakarma-1817b9210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avanish-vishwakarma-1817b9210/" height="30" width="40" /></a>
